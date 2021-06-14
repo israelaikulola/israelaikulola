@@ -11,7 +11,6 @@
 - 👯 I’m looking to collaborate on ...anything about datascience/analysis /coding etc.
 
 - 🤔 I’m looking for help with ...other content creators
--
 - 💬 Ask me about ...anything
 
 - 📫 How to reach me: ...[Linkedin](https://www.linkedin.com/in/dr-israel-o-aikulola/)
