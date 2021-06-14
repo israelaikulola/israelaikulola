@@ -2,11 +2,7 @@
 
 ## I'm a Father,Husband, Data Scientist/Analyst/Engineer, Developer and Teacher
 
-### I am data scientist and products engineer who is pasionate about making open-source more accessible, data modeling/cleaning, creating technology to save lives, elevate people, and building community.
-<!--
-**israelaikulola/israelaikulola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### I am data scientist and products engineer who is pasionate about making open-source more accessible, data modeling/cleaning, creating technology to save lives, elevate people, and building community
 
 - 🔭 I’m currently working on Human Rights First- Blue Witness
 
