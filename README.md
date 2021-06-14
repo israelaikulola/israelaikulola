@@ -13,7 +13,7 @@
 - 🤔 I’m looking for help with ...other content creators
 - 💬 Ask me about ...anything
 
-- 📫 How to reach me: ...[Linkedin](https://www.linkedin.com/in/dr-israel-o-aikulola/)
+- 📫 How to reach me: ...[Linkedin](https://www.linkedin.com/in/dr-israel-o-aikulola/) or [email](israelaikulola4@gmail.com)
 
 - 😄 Pronouns: ... He/Him
 
