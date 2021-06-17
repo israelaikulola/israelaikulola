@@ -17,7 +17,7 @@
 
 - 😄 Pronouns: ... He/Him
 
-- ⚡ Fun fact: ... I love to draw and play guitar/drums
+- ⚡ Fun fact: ... I love to write, draw and play guitar/drums
 -->
 
 
